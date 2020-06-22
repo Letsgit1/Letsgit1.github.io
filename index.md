@@ -17,3 +17,5 @@ After he started to get acting jobs in France, Juan adopted the French version o
 Jean Reno said:
 > My name is Jean
 > and who are you?
+
+<img src="https://en.wikipedia.org/wiki/File:Jean_Reno_Cannes_2016.jpg"/>
